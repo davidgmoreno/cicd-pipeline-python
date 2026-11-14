@@ -13,7 +13,7 @@ def sumar(a, b):
 
 def restar(a, b):
     """Devuelve la diferencia entre dos números."""
-    return a - b 
+    return a - b
 
 
 def multiplicar(a, b):
@@ -26,5 +26,3 @@ def dividir(a, b):
     if b == 0:
         raise ZeroDivisionError("No se puede dividir por cero")
     return a / b
-
-
