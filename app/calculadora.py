@@ -13,7 +13,7 @@ def sumar(a, b):
 
 def restar(a, b):
     """Devuelve la diferencia entre dos números."""
-    return a + b # Error intencional
+    return a - b 
 
 
 def multiplicar(a, b):
